@@ -2,7 +2,7 @@
     "name": "dark-atomized",
     "displayName": "Dark Atomized",
     "description": "Default Dark Visual Studio Code's Theme with Atom's One Dark Highlighting",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "HideOnFluff",
     "icon": "icon.png",
     "repository": {
