@@ -1,0 +1,38 @@
+{
+    "name": "dark-atomized",
+    "displayName": "Dark Atomized",
+    "description": "Default Dark Visual Studio Code's Theme with Atom's One Dark Highlighting",
+    "version": "0.0.1",
+    "publisher": "HideOnFluff",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HideOnFluff/Dark-Atomized"
+    },
+    "keywords": [
+        "atom",
+        "default dark",
+        "dark",
+        "visual studio code",
+        "vscode",
+        "theme",
+        "atomized",
+        "one dark",
+        "highlighting"
+    ],
+    ],
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Atomized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark-Atomized-color-theme.json"
+            }
+        ]
+    }
+}
