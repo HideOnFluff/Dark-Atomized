@@ -19,7 +19,6 @@
         "one dark",
         "highlighting"
     ],
-    ],
     "engines": {
         "vscode": "^1.62.0"
     },
