@@ -1,1 +1,1 @@
-bnuuy
+Dark Atomized is a theme I created myself to be able to use Atom's beautiful highlighting while also being able to use Eyhn's Vibrancy Theme (https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
